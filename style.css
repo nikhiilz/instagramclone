@@ -1,0 +1,15 @@
+body{
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: column;
+}
+.top {
+    display: flex;
+}
+.box1 {
+    flex: 1;
+    justify-content: flex-end;
+}
+.box2 {
+    flex: 1;
+}
